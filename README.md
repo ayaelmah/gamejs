@@ -20,4 +20,4 @@ To run this game locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/2d-platform-game.git
+   git clone https://github.com/ayaelmah/gamejs
